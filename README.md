@@ -6,7 +6,7 @@ Este projeto tem como objetivo desenvolver um site de vendas de Cupcakes
 
 ### 1. **Clone o repositório:**
 ~~~sh
-git clone https://github.com/carladev2025/Projeto-Fullstack-Projeto-integrador-transdiciplinar-2.git
+git clone https://github.com/carlosaugusto-dev/Projeto-Fullstack-Projeto-integrador-transdiciplinar-2.git
 ~~~
 
 ### 2. **Baixe e instale o Xampp e crie o banco de dados no MySQL**
